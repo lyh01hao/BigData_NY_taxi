@@ -2,12 +2,18 @@
 This repo is about a project of BigData Class.
 ## Requirements：
 Python
+
 Hadoop
+
 Spark
+
 Scala
+
 ### Python Libraries:
 Pyecharts
+
 PySpark
+
 gmplot
 
 ## 代码文件
